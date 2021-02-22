@@ -1,4 +1,4 @@
-# NLP course' assignments
+# NLP course's assignments
 
 The assignmnts have been writtern as part of NLP course by Professor Michael Elhadad.
 Its description can be found here:
